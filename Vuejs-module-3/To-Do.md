@@ -6,8 +6,8 @@
 
 
 ### Module 3 - Chapter 16
-- [x]Install node.js
-- [x]install vue-cli
+- [x] Install node.js
+- [x] install vue-cli
 >To install: in terminal type:" vue init webpack-simple myproject " then hit enter to all the questions, follow prompt of 
 >cd myproject
 >npm install
