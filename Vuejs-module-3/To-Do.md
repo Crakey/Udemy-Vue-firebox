@@ -17,4 +17,4 @@
 - [x] Understand how the different modules flow together 
 > index.html has the div id= "app"
 > main.js specifys to import app.vue 
-> app.js uses one "<<template>>" tag to define 
+> app.js uses one "[<template>]" tag to define 
